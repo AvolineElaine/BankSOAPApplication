@@ -1,0 +1,14 @@
+
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹‡Æþÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(å§”öøÿÿÿÿ
+@squid:S1905"&Remove this unnecessary cast to "int".(½£ß“ùÿÿÿÿ
+\squid:S1192"GDefine a constant instead of duplicating this literal "number" 4 times.(èñ«ƒ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(åŸÚ½ýÿÿÿÿ
+`squid:S1192"FDefine a constant instead of duplicating this literal "token" 6 times.(èóÃ˜ûÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+nsquid:S1192"TDefine a constant instead of duplicating this literal "User not authorized" 3 times.(ÕêÍƒýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+nsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.( ¶ëÐ
+Isquid:S1191"5Use classes from the Java API instead of Sun classes.(£âøs
+dsquid:S1192"ODefine a constant instead of duplicating this literal "User not found" 3 times.(˜Ï‰´
+Asquid:S3599",Use another way to initialize this instance.( ¶ëÐ

@@ -1,0 +1,10 @@
+
+csquid:S1192"IDefine a constant instead of duplicating this literal "username" 3 times.(ŠşòÊüÿÿÿÿ
+`squid:S1192"FDefine a constant instead of duplicating this literal "token" 6 times.(èóÃ˜ûÿÿÿÿ
+vsquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "user".(Ø–öËùÿÿÿÿ
+Gsquid:S1481"-Remove this unused "newToken" local variable.(ÓÊ¹úøÿÿÿÿ
+nsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.( ¶ëĞ
+nsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.( ¶ëĞ
+Vsquid:S1854"<Remove this useless assignment to local variable "newToken".(ÓÊ¹úøÿÿÿÿ
+Asquid:S3599",Use another way to initialize this instance.( ¶ëĞ
+Asquid:S3599",Use another way to initialize this instance.( ¶ëĞ

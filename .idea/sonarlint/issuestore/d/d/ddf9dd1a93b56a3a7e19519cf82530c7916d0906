@@ -1,0 +1,6 @@
+
+|squid:S2637"g"username" is marked "javax.validation.constraints.NotNull" but is not initialized in this constructor.(˜íƒó
+…squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ò…³¤
+ˆsquid:S1319"sThe type of the "accounts" object should be an interface such as "List" rather than the implementation "ArrayList".(¬„¬ø
+Wsquid:CallToDeprecatedMethod",Remove this use of "name"; it is deprecated.(ñÞ·®þÿÿÿÿ
+Ysquid:CallToDeprecatedMethod".Remove this use of "unique"; it is deprecated.(ñÞ·®þÿÿÿÿ

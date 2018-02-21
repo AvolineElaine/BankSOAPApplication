@@ -1,0 +1,30 @@
+
+<squid:S1604"(Make this anonymous inner class a lambda(Ìµ¿y
+Vsquid:UnusedPrivateMethod"3Remove this unused private "getCurrentUser" method.(¥šÌþ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘õ†¥8«×Ãþ‘,
+Bsquid:S1604"(Make this anonymous inner class a lambda(­Á³…þÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßíúšþÿÿÿÿ
+=squid:S1604"(Make this anonymous inner class a lambda(ùõù
+Qsquid:S3655"7Call "Optional#isPresent()" before accessing the value.( šä¼ÿÿÿÿÿ
+osquid:S1450"ZRemove the "currentUser" field and declare it as a local variable in the relevant methods.(ûË¥ó
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(„õŽ
+Isquid:EmptyStatementUsageCheck"Remove this empty statement.(Åñ­õþÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ËËÕ
+=squid:S1604"(Make this anonymous inner class a lambda(¡³®¹
+Bsquid:S1948"-Make "currentUser" transient or serializable.(ûË¥ó
+Bsquid:S1604"(Make this anonymous inner class a lambda(Ö¥è‚ÿÿÿÿÿ
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8«×Ãþ‘,
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¿óÐþ‘,
+Bsquid:S1604"(Make this anonymous inner class a lambda(íÜùãúÿÿÿÿ
+Isquid:EmptyStatementUsageCheck"Remove this empty statement.(Åñ­õþÿÿÿÿ
+Qsquid:S3655"7Call "Optional#isPresent()" before accessing the value.( šä¼ÿÿÿÿÿ
+=squid:S1604"(Make this anonymous inner class a lambda(‹×è†
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßÑ”¹þÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßíúšþÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(ù€¤Ôÿÿÿÿÿ
+<squid:S1604"(Make this anonymous inner class a lambda(Éª.
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ªéÎœøÿÿÿÿ
+Dsquid:S1068"/Remove this unused "currentUser" private field.(ûË¥ó
+hsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(†ñÌ ûÿÿÿÿ

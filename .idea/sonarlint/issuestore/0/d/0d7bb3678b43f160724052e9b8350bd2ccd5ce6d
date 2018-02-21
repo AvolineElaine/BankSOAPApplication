@@ -1,0 +1,4 @@
+
+1squid:S1643"Use a StringBuilder instead.(˜ªÏ·
+_squid:S3027"JPut single-quotes around ',' to use the faster "lastIndexOf(char)" method.(Ì®¼ü
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(¤ŸÈèüÿÿÿÿ
